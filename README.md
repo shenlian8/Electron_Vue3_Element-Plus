@@ -10,6 +10,8 @@
 最近看到electron-vite项目，可以很方便地构建Electron项目，还可以直接加入VUE3。能在VSCode中方便地调试。
 [electron-vite](https://electron-vite.org/)
 
+这个项目，实现了Electron前端到后端的通讯。实现了VUE的数据绑定。实现了一个Element Plus的按钮。
+
 ## Recommended IDE Setup
 
 - [VSCode](https://code.visualstudio.com/) + [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) + [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
